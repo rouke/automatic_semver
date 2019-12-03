@@ -1,3 +1,15 @@
 [submodule "java/example/spring-petclinic"]
 	path = java/example/spring-petclinic
 	url = git@github.com:rouke/spring-petclinic.git
+[submodule "java/example_major/spring-petclinic"]
+	path = java/example_major/spring-petclinic
+	url = git@github.com:rouke/spring-petclinic.git
+	branch = major
+[submodule "java/example_minor/spring-petclinic"]
+	path = java/example_minor/spring-petclinic
+	url = git@github.com:rouke/spring-petclinic.git
+	branch = minor
+[submodule "java/example_patch/spring-petclinic"]
+	path = java/example_patch/spring-petclinic
+	url = git@github.com:rouke/spring-petclinic.git
+	branch = patch
